@@ -2,7 +2,7 @@
 - 👀 I’m interested in three dots
 - 🌱 I’m currently learning it too
 - 💞️ I’m looking to collaborate with my dots
-- 📫 How to reach me ...
+- 📫 How to reach me is to make me laugh
 
 <!---
 ShayanMadMan/ShayanMadMan is a ✨ special ✨ repository because its `README.md` (this file) is full of useful information.
